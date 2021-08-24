@@ -1,0 +1,23 @@
+<kml>
+<Document>
+	<description>RoadPath</description>
+	<name>RoadPath_2019_11_07_17_54</name>
+	<Placemark>
+		<description>RoadPath_2019_11_07_17_54-gps</description>
+		<name>RoadPath_2019_11_07_17_54-gps</name>
+		<Style>
+			<LineStyle>
+				<color>ffD2D2D2</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffD2D2D2</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.2467052,40.1031605,0.0 -88.24670027,40.10266624,0.0 -88.25012463,40.11291713,0.0 -88.24679631,40.10981028,0.0 -88.24678796,40.10934987,0.0 -88.24677878,40.10880732,0.0 -88.24677119,40.10822714,0.0 -88.24676172,40.10763874,0.0 -88.24675451,40.10706631,0.0 -88.2467499,40.10647994,0.0 -88.24674677,40.10592213,0.0 -88.24674354,40.10536707,0.0 -88.24673887,40.10482267,0.0 -88.2467288,40.10424617,0.0 -88.24671616,40.10365367,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

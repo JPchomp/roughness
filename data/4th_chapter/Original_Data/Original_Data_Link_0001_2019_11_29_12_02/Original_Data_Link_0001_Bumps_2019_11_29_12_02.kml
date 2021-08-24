@@ -1,0 +1,34 @@
+<kml>
+<Document>
+	<description>Bumps</description>
+	<name>Bumps_2019_11_29_12_02</name>
+	<Placemark>
+		<description>40 km/h</description>
+		<name>id: 0 12:02:50 2019-November-29</name>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal3/icon45.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-88.26091007,40.09801915,0.0 </coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>48 km/h</description>
+		<name>id: 0 12:08:07 2019-November-29</name>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal3/icon45.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Point>
+			<coordinates>-88.26099565,40.10901164,0.0 </coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

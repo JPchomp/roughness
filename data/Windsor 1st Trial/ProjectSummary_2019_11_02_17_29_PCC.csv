@@ -1,0 +1,6 @@
+"Project_Name","Time_Road_Created","Road_Identification","Road_Pavement_Type","Number_Links","Number_Of_Tags","Number_Of_Bumps","Travel_Time","Length_Road_Total","Avg_Speed_Road_Total","Avg_Roughness_Road_Total","Condition_Category_Road_Total","Length_Road_wRoughness","Avg_Speed_Road_wRoughness","Avg_Roughness_Road_wRoughness","Condition_Category_Road_wRoughness"
+"PCC","17:30:12 2019-November-02","PCC-GS-1st try","Paved","2","0","1","5.65","4397.74","33.91","6.98","Poor","3053.29","38.89","6.84","Poor",
+"PCC","17:55:03 2019-November-02","PCC-GS-2nd trt","Paved","2","0","0","5.57","3131.63","36.48","4.71","Fair","2977.91","39.08","4.47","Fair",
+"PCC","18:33:20 2019-November-02","PCC-BS-1st Try-Hard Sus","Paved","2","0","0","5.27","4493.28","35.22","3.16","Good","3043.91","40.52","2.49","Good",
+"PCC","18:48:44 2019-November-02","PCC-BS-2nd try-Hard Sus","Paved","2","0","0","5.12","4847.48","34.98","3.34","Good","2927.23","40.84","2.51","Good",
+"PCC","18:59:14 2019-November-02","PCC-BS-1st Try-SUV Sus","Paved","2","0","0","5.15","3753.09","36.85","4.16","Fair","2943.1","40.78","3.74","Good",

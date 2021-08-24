@@ -1,0 +1,326 @@
+<kml>
+<Document>
+	<description>RoadIntervals</description>
+	<name>RoadIntervals_2019_11_02_19_06</name>
+	<Placemark>
+		<name>Interval Number: 0146</name>
+		<description>Created: 19:06:53 2019-November-02
+652.52 m - 0 km/h
+Roughness: 
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff000000</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.18661909,40.08958781,0.0 -88.1899133,40.08428401,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0147</name>
+		<description>Created: 19:06:55 2019-November-02
+97.64 m - 0 km/h
+Roughness: 
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff000000</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.1899133,40.08428401,0.0 -88.19094951,40.08391036,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0148</name>
+		<description>Created: 19:07:08 2019-November-02
+102.97 m - 27 km/h
+Roughness: 3.68
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19094951,40.08391036,0.0 -88.19215448,40.08385213,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0149</name>
+		<description>Created: 19:07:21 2019-November-02
+105.03 m - 28 km/h
+Roughness: 3.43
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19215448,40.08385213,0.0 -88.19338591,40.08384315,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0150</name>
+		<description>Created: 19:07:34 2019-November-02
+104.53 m - 28 km/h
+Roughness: 3.37
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19338591,40.08384315,0.0 -88.19461141,40.08383422,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0151</name>
+		<description>Created: 19:07:47 2019-November-02
+102.36 m - 28 km/h
+Roughness: 3.29
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19461141,40.08383422,0.0 -88.19581146,40.08382547,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0152</name>
+		<description>Created: 19:08:01 2019-November-02
+106.83 m - 27 km/h
+Roughness: 3.27
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19581146,40.08382547,0.0 -88.19706392,40.08381331,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0153</name>
+		<description>Created: 19:08:14 2019-November-02
+102.09 m - 28 km/h
+Roughness: 3.64
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19706392,40.08381331,0.0 -88.19826087,40.08380192,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0154</name>
+		<description>Created: 19:08:27 2019-November-02
+104.89 m - 28 km/h
+Roughness: 3.39
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19826087,40.08380192,0.0 -88.19949068,40.0837954,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0155</name>
+		<description>Created: 19:08:41 2019-November-02
+104.14 m - 27 km/h
+Roughness: 3.21
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.19949068,40.0837954,0.0 -88.20071143,40.08381511,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0156</name>
+		<description>Created: 19:08:55 2019-November-02
+107.33 m - 27 km/h
+Roughness: 3.6
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20071143,40.08381511,0.0 -88.20196977,40.08382787,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0157</name>
+		<description>Created: 19:09:08 2019-November-02
+104.21 m - 28 km/h
+Roughness: 3.52
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20196977,40.08382787,0.0 -88.20319115,40.08380039,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0158</name>
+		<description>Created: 19:09:21 2019-November-02
+100.2 m - 27 km/h
+Roughness: 3.85
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20319115,40.08380039,0.0 -88.20436586,40.0837905,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0159</name>
+		<description>Created: 19:09:35 2019-November-02
+102.65 m - 26 km/h
+Roughness: 3.86
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20436586,40.0837905,0.0 -88.20556934,40.08378325,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0160</name>
+		<description>Created: 19:09:49 2019-November-02
+106.7 m - 27 km/h
+Roughness: 3.76
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20556934,40.08378325,0.0 -88.20682033,40.08377678,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Interval Number: 0161</name>
+		<description>Created: 19:10:04 2019-November-02
+104.25 m - 25 km/h
+Roughness: 3.83
+Suspension: SUV</description>
+		<Style>
+			<LineStyle>
+				<color>ffffea75</color>
+				<width>4.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffffea75</color>
+			</PolyStyle>
+		</Style>
+		<LineString>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>-88.20682033,40.08377678,0.0 -88.20804263,40.08377128,0.0 </coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

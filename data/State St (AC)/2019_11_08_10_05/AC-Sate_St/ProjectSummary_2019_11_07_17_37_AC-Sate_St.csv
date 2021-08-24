@@ -1,0 +1,5 @@
+"Project_Name","Time_Road_Created","Road_Identification","Road_Pavement_Type","Number_Links","Number_Of_Tags","Number_Of_Bumps","Travel_Time","Length_Road_Total","Avg_Speed_Road_Total","Avg_Roughness_Road_Total","Condition_Category_Road_Total","Length_Road_wRoughness","Avg_Speed_Road_wRoughness","Avg_Roughness_Road_wRoughness","Condition_Category_Road_wRoughness"
+"AC-Sate St","17:38:39 2019-November-07","AC-State St-15mph-1st Try","Paved","1","0","0","2.08","948.73","20.09","3.99","Good","822.97","25.07","2.99","Good",
+"AC-Sate St","17:42:17 2019-November-07","AC-State St-15 mph-2nd Try","Paved","1","0","0","2.17","1313.47","18.67","4.07","Fair","829.52","23.3","3.09","Good",
+"AC-Sate St","17:48:13 2019-November-07","AC-State St-30 mph-1st Try","Paved","1","0","0","1.22","1150.26","31.88","4.49","Fair","742.85","43.3","2.98","Good",
+"AC-Sate St","17:52:17 2019-November-07","AC-State St-30 mph-2nd Try","Paved","1","0","0","1.17","1210.84","34.41","4.08","Fair","743.33","44.23","2.96","Good",

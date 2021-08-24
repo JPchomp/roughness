@@ -1,0 +1,109 @@
+---
+title: "Annex Chapter 4"
+author: "Juan Pablo Bertucci"
+date: "28 November 2019"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("readr")
+library("purrr")
+library("caret")
+library("tibble")
+library("tidyverse")
+```
+
+## Input data
+
+The data collected for the section defined is imported below
+
+```{r message=FALSE, warning=FALSE}
+data=read_csv(file = "C:/Users/Juan Pablo/OneDrive - University of Illinois - Urbana/Fall 2019/CEE 508 - Pavement Evaluation and Rehabilitation/Term Project/DATA/irivspci2.csv",col_names = T)
+data=as_tibble(data)
+```
+
+## Models
+We try first a linear model, then a nearest neighbour model, and then a random forest model to analyse possible machine learning approaches.
+
+### Linear Model
+
+```{r}
+fit_lm=lm(pci~iri, data = data)
+
+summary(fit_lm)
+
+plot(fit_lm)
+grid()
+```
+
+### Nearest Neighbors
+
+```{r }
+fit_knn = train(
+  pci ~ iri,
+  data = data,
+  method = "knn",
+  trControl = trainControl(method='cv',number = 5)
+  )
+
+fit_knn
+
+fit_knn$results
+
+plot(fit_knn)
+
+```
+
+### Random Forest
+
+```{r  message=FALSE, warning=FALSE}
+fit_rf = train(
+  pci ~ iri+st,
+  data = data,
+  method = "rf",
+  trControl = trainControl(method='cv',number = 5)
+  )
+
+fit_rf
+
+fit_rf$results
+
+fit_rf$finalModel
+
+plot(fit_rf)
+```
+
+## Predicted vs. Observed Values
+
+The predicting quality of each model is shown below contrasting the observed and predicted values.
+
+```{r echo = FALSE}
+plot(predict(fit_lm, data), data$pci,
+     xlim = c(0, 100), ylim = c(0, 100), pch = 20, col = "darkgrey",
+     xlab = "Predicted", ylab = "Actual",
+     main = "Linear Model")
+abline(a = 0, b = 1, col = "green")
+grid()
+```
+
+```{r echo = FALSE}
+plot(predict(fit_knn, data), data$pci,
+     xlim = c(0, 100), ylim = c(0, 100), pch = 20, col = "darkgrey",
+     xlab = "Predicted", ylab = "Actual",
+     main = "KNN Model")
+abline(a = 0, b = 1, col = "red")
+grid()
+```
+
+```{r echo = FALSE}
+plot(predict(fit_rf, data), data$pci,
+     xlim = c(0, 100), ylim = c(0, 100), pch = 20, col = "darkgrey",
+     xlab = "Predicted", ylab = "Actual",
+     main = "Forest Model")
+abline(a = 0, b = 1, col = "blue")
+grid()
+```

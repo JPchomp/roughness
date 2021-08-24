@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="State" id="State">
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>State</name>
+  <Placemark>
+	<name>State St, Station: 0, L IRI: 564, R IRI: 569</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685126</SimpleData>
+		<SimpleData name="Latitude">40.12718125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685126,40.12718125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 100, L IRI: 541, R IRI: 484</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24690283</SimpleData>
+		<SimpleData name="Latitude">40.12696667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24690283,40.12696667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 200, L IRI: 110, R IRI: 132</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24689735</SimpleData>
+		<SimpleData name="Latitude">40.12668689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24689735,40.12668689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 300, L IRI: 150, R IRI: 117</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24689653</SimpleData>
+		<SimpleData name="Latitude">40.12641374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24689653,40.12641374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 400, L IRI: 72, R IRI: 69</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468946</SimpleData>
+		<SimpleData name="Latitude">40.12613974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468946,40.12613974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 500, L IRI: 102, R IRI: 48</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24689267</SimpleData>
+		<SimpleData name="Latitude">40.1258669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24689267,40.1258669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 600, L IRI: 98, R IRI: 69</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24689119</SimpleData>
+		<SimpleData name="Latitude">40.12559511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24689119,40.12559511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 700, L IRI: 137, R IRI: 135</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24688972</SimpleData>
+		<SimpleData name="Latitude">40.12531859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24688972,40.12531859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 800, L IRI: 65, R IRI: 71</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24688751</SimpleData>
+		<SimpleData name="Latitude">40.12504405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24688751,40.12504405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 900, L IRI: 88, R IRI: 70</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24688425</SimpleData>
+		<SimpleData name="Latitude">40.12477216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24688425,40.12477216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1000, L IRI: 169, R IRI: 176</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24688154</SimpleData>
+		<SimpleData name="Latitude">40.12449509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24688154,40.12449509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1100, L IRI: 93, R IRI: 92</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24688063</SimpleData>
+		<SimpleData name="Latitude">40.12422187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24688063,40.12422187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1200, L IRI: 484, R IRI: 484</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468787</SimpleData>
+		<SimpleData name="Latitude">40.12394901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468787,40.12394901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1300, L IRI: 479, R IRI: 464</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687714</SimpleData>
+		<SimpleData name="Latitude">40.12366292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687714,40.12366292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1400, L IRI: 606, R IRI: 482</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687705</SimpleData>
+		<SimpleData name="Latitude">40.1234058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687705,40.1234058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1500, L IRI: 84, R IRI: 63</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687571</SimpleData>
+		<SimpleData name="Latitude">40.12313168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687571,40.12313168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1600, L IRI: 228, R IRI: 205</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687409</SimpleData>
+		<SimpleData name="Latitude">40.12285451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687409,40.12285451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1700, L IRI: 89, R IRI: 89</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468719</SimpleData>
+		<SimpleData name="Latitude">40.12257554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468719,40.12257554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1800, L IRI: 92, R IRI: 112</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686907</SimpleData>
+		<SimpleData name="Latitude">40.12230472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686907,40.12230472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 1900, L IRI: 82, R IRI: 58</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687041</SimpleData>
+		<SimpleData name="Latitude">40.12203074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687041,40.12203074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2000, L IRI: 88, R IRI: 242</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24687003</SimpleData>
+		<SimpleData name="Latitude">40.12175612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24687003,40.12175612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2100, L IRI: 108, R IRI: 295</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686629</SimpleData>
+		<SimpleData name="Latitude">40.12148744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686629,40.12148744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2200, L IRI: 140, R IRI: 126</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468657</SimpleData>
+		<SimpleData name="Latitude">40.12121187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468657,40.12121187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2300, L IRI: 70, R IRI: 58</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686291</SimpleData>
+		<SimpleData name="Latitude">40.12093665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686291,40.12093665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2400, L IRI: 67, R IRI: 181</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686094</SimpleData>
+		<SimpleData name="Latitude">40.12066424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686094,40.12066424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2500, L IRI: 72, R IRI: 102</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685978</SimpleData>
+		<SimpleData name="Latitude">40.12038794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685978,40.12038794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2600, L IRI: 89, R IRI: 102</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686013</SimpleData>
+		<SimpleData name="Latitude">40.12011806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686013,40.12011806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2700, L IRI: 79, R IRI: 66</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686474</SimpleData>
+		<SimpleData name="Latitude">40.11984034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686474,40.11984034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2800, L IRI: 67, R IRI: 81</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686984</SimpleData>
+		<SimpleData name="Latitude">40.11956684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686984,40.11956684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 2900, L IRI: 137, R IRI: 194</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686752</SimpleData>
+		<SimpleData name="Latitude">40.11929538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686752,40.11929538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3000, L IRI: 115, R IRI: 150</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468682</SimpleData>
+		<SimpleData name="Latitude">40.11902049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468682,40.11902049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3100, L IRI: 108, R IRI: 138</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686735</SimpleData>
+		<SimpleData name="Latitude">40.11873915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686735,40.11873915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3200, L IRI: 415, R IRI: 334</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24686403</SimpleData>
+		<SimpleData name="Latitude">40.11845886</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24686403,40.11845886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3300, L IRI: 556, R IRI: 607</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685464</SimpleData>
+		<SimpleData name="Latitude">40.11820941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685464,40.11820941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3400, L IRI: 273, R IRI: 215</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685036</SimpleData>
+		<SimpleData name="Latitude">40.11792914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685036,40.11792914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3500, L IRI: 89, R IRI: 182</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685111</SimpleData>
+		<SimpleData name="Latitude">40.11765254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685111,40.11765254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3600, L IRI: 184, R IRI: 262</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685237</SimpleData>
+		<SimpleData name="Latitude">40.11737751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685237,40.11737751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3700, L IRI: 134, R IRI: 187</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685464</SimpleData>
+		<SimpleData name="Latitude">40.1171045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685464,40.1171045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3800, L IRI: 233, R IRI: 346</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685365</SimpleData>
+		<SimpleData name="Latitude">40.11683284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685365,40.11683284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 3900, L IRI: 418, R IRI: 549</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685359</SimpleData>
+		<SimpleData name="Latitude">40.11655433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685359,40.11655433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4000, L IRI: 387, R IRI: 597</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685381</SimpleData>
+		<SimpleData name="Latitude">40.11627912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685381,40.11627912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4100, L IRI: 176, R IRI: 111</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24685231</SimpleData>
+		<SimpleData name="Latitude">40.11600474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24685231,40.11600474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4200, L IRI: 199, R IRI: 194</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684903</SimpleData>
+		<SimpleData name="Latitude">40.11573273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684903,40.11573273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4300, L IRI: 140, R IRI: 161</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684654</SimpleData>
+		<SimpleData name="Latitude">40.11545916</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684654,40.11545916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4400, L IRI: 224, R IRI: 294</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684566</SimpleData>
+		<SimpleData name="Latitude">40.11518027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684566,40.11518027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4500, L IRI: 171, R IRI: 141</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684409</SimpleData>
+		<SimpleData name="Latitude">40.11490357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684409,40.11490357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4600, L IRI: 306, R IRI: 122</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684207</SimpleData>
+		<SimpleData name="Latitude">40.11463011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684207,40.11463011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4700, L IRI: 275, R IRI: 477</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684208</SimpleData>
+		<SimpleData name="Latitude">40.11435533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684208,40.11435533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4800, L IRI: 157, R IRI: 237</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24684089</SimpleData>
+		<SimpleData name="Latitude">40.11407961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24684089,40.11407961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 4900, L IRI: 235, R IRI: 191</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24683799</SimpleData>
+		<SimpleData name="Latitude">40.11380751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24683799,40.11380751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5000, L IRI: 163, R IRI: 93</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24683215</SimpleData>
+		<SimpleData name="Latitude">40.11353489</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24683215,40.11353489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5100, L IRI: 282, R IRI: 125</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24682429</SimpleData>
+		<SimpleData name="Latitude">40.11325489</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24682429,40.11325489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5200, L IRI: 203, R IRI: 133</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468213</SimpleData>
+		<SimpleData name="Latitude">40.11294011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468213,40.11294011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5300, L IRI: 549, R IRI: 552</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24681777</SimpleData>
+		<SimpleData name="Latitude">40.11274129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24681777,40.11274129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5400, L IRI: 318, R IRI: 387</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24681725</SimpleData>
+		<SimpleData name="Latitude">40.11244543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24681725,40.11244543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5500, L IRI: 102, R IRI: 108</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24681599</SimpleData>
+		<SimpleData name="Latitude">40.11217012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24681599,40.11217012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5600, L IRI: 104, R IRI: 167</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24681482</SimpleData>
+		<SimpleData name="Latitude">40.11189638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24681482,40.11189638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5700, L IRI: 263, R IRI: 222</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24681285</SimpleData>
+		<SimpleData name="Latitude">40.11162152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24681285,40.11162152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5800, L IRI: 104, R IRI: 218</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2468111</SimpleData>
+		<SimpleData name="Latitude">40.11134484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2468111,40.11134484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 5900, L IRI: 113, R IRI: 102</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680979</SimpleData>
+		<SimpleData name="Latitude">40.11107315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680979,40.11107315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6000, L IRI: 107, R IRI: 74</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680862</SimpleData>
+		<SimpleData name="Latitude">40.11079651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680862,40.11079651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6100, L IRI: 162, R IRI: 73</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680647</SimpleData>
+		<SimpleData name="Latitude">40.11052137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680647,40.11052137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6200, L IRI: 468, R IRI: 439</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680404</SimpleData>
+		<SimpleData name="Latitude">40.11024715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680404,40.11024715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6300, L IRI: 416, R IRI: 482</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680292</SimpleData>
+		<SimpleData name="Latitude">40.10997244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680292,40.10997244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6400, L IRI: 202, R IRI: 148</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680202</SimpleData>
+		<SimpleData name="Latitude">40.10970194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680202,40.10970194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6500, L IRI: 168, R IRI: 97</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24680023</SimpleData>
+		<SimpleData name="Latitude">40.10943141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24680023,40.10943141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6600, L IRI: 186, R IRI: 186</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24679644</SimpleData>
+		<SimpleData name="Latitude">40.1091538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24679644,40.1091538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6700, L IRI: 239, R IRI: 315</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24679339</SimpleData>
+		<SimpleData name="Latitude">40.10887651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24679339,40.10887651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6800, L IRI: 112, R IRI: 259</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24679031</SimpleData>
+		<SimpleData name="Latitude">40.10860143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24679031,40.10860143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 6900, L IRI: 91, R IRI: 228</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24678721</SimpleData>
+		<SimpleData name="Latitude">40.10832849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24678721,40.10832849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7000, L IRI: 204, R IRI: 233</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24678307</SimpleData>
+		<SimpleData name="Latitude">40.10805315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24678307,40.10805315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7100, L IRI: 107, R IRI: 185</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24678081</SimpleData>
+		<SimpleData name="Latitude">40.10778063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24678081,40.10778063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7200, L IRI: 126, R IRI: 195</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24677875</SimpleData>
+		<SimpleData name="Latitude">40.10751058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24677875,40.10751058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7300, L IRI: 138, R IRI: 219</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24677478</SimpleData>
+		<SimpleData name="Latitude">40.10723922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24677478,40.10723922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7400, L IRI: 216, R IRI: 492</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24677097</SimpleData>
+		<SimpleData name="Latitude">40.10696333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24677097,40.10696333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7500, L IRI: 296, R IRI: 227</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2467686</SimpleData>
+		<SimpleData name="Latitude">40.10668588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2467686,40.10668588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7600, L IRI: 173, R IRI: 214</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24676666</SimpleData>
+		<SimpleData name="Latitude">40.10641361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24676666,40.10641361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7700, L IRI: 284, R IRI: 180</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2467612</SimpleData>
+		<SimpleData name="Latitude">40.10613949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2467612,40.10613949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7800, L IRI: 431, R IRI: 244</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24675291</SimpleData>
+		<SimpleData name="Latitude">40.10586382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24675291,40.10586382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 7900, L IRI: 163, R IRI: 140</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.246746</SimpleData>
+		<SimpleData name="Latitude">40.10559043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.246746,40.10559043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8000, L IRI: 345, R IRI: 264</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24674129</SimpleData>
+		<SimpleData name="Latitude">40.10531662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24674129,40.10531662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8100, L IRI: 431, R IRI: 427</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673804</SimpleData>
+		<SimpleData name="Latitude">40.10504439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673804,40.10504439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8200, L IRI: 335, R IRI: 365</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673625</SimpleData>
+		<SimpleData name="Latitude">40.10476951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673625,40.10476951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8300, L IRI: 190, R IRI: 257</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673479</SimpleData>
+		<SimpleData name="Latitude">40.10449255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673479,40.10449255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8400, L IRI: 426, R IRI: 440</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673241</SimpleData>
+		<SimpleData name="Latitude">40.10422041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673241,40.10422041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8500, L IRI: 252, R IRI: 251</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673021</SimpleData>
+		<SimpleData name="Latitude">40.10394939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673021,40.10394939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8600, L IRI: 205, R IRI: 230</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24672896</SimpleData>
+		<SimpleData name="Latitude">40.10367199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24672896,40.10367199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8700, L IRI: 334, R IRI: 319</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24672809</SimpleData>
+		<SimpleData name="Latitude">40.10340142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24672809,40.10340142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8800, L IRI: 348, R IRI: 270</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673286</SimpleData>
+		<SimpleData name="Latitude">40.10312265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673286,40.10312265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 8900, L IRI: 244, R IRI: 222</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673973</SimpleData>
+		<SimpleData name="Latitude">40.10284386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673973,40.10284386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9000, L IRI: 404, R IRI: 386</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24674071</SimpleData>
+		<SimpleData name="Latitude">40.10256366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24674071,40.10256366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9100, L IRI: 905, R IRI: 809</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673863</SimpleData>
+		<SimpleData name="Latitude">40.10234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673863,40.10234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9200, L IRI: 246, R IRI: 246</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24673264</SimpleData>
+		<SimpleData name="Latitude">40.10203222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24673264,40.10203222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9300, L IRI: 504, R IRI: 170</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24671994</SimpleData>
+		<SimpleData name="Latitude">40.10175444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24671994,40.10175444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9400, L IRI: 180, R IRI: 183</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24671334</SimpleData>
+		<SimpleData name="Latitude">40.10148063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24671334,40.10148063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9500, L IRI: 201, R IRI: 137</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24670996</SimpleData>
+		<SimpleData name="Latitude">40.10120401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24670996,40.10120401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9600, L IRI: 450, R IRI: 135</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24670694</SimpleData>
+		<SimpleData name="Latitude">40.10093205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24670694,40.10093205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9700, L IRI: 191, R IRI: 141</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24670371</SimpleData>
+		<SimpleData name="Latitude">40.10065969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24670371,40.10065969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9800, L IRI: 273, R IRI: 152</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669952</SimpleData>
+		<SimpleData name="Latitude">40.10038449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669952,40.10038449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 9900, L IRI: 299, R IRI: 154</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669656</SimpleData>
+		<SimpleData name="Latitude">40.10011543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669656,40.10011543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10000, L IRI: 254, R IRI: 161</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669312</SimpleData>
+		<SimpleData name="Latitude">40.09983921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669312,40.09983921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10100, L IRI: 156, R IRI: 112</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669044</SimpleData>
+		<SimpleData name="Latitude">40.09956139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669044,40.09956139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10200, L IRI: 153, R IRI: 123</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2466864</SimpleData>
+		<SimpleData name="Latitude">40.09928498</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2466864,40.09928498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10300, L IRI: 373, R IRI: 300</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24668446</SimpleData>
+		<SimpleData name="Latitude">40.09901191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24668446,40.09901191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10400, L IRI: 213, R IRI: 217</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669815</SimpleData>
+		<SimpleData name="Latitude">40.0987387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669815,40.0987387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10500, L IRI: 181, R IRI: 189</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24670727</SimpleData>
+		<SimpleData name="Latitude">40.09843325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24670727,40.09843325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10600, L IRI: 653, R IRI: 745</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.2467041</SimpleData>
+		<SimpleData name="Latitude">40.09820181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2467041,40.09820181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10700, L IRI: 538, R IRI: 644</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24669775</SimpleData>
+		<SimpleData name="Latitude">40.09792336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24669775,40.09792336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10800, L IRI: 268, R IRI: 283</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24668763</SimpleData>
+		<SimpleData name="Latitude">40.09764393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24668763,40.09764393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 10900, L IRI: 424, R IRI: 431</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24667536</SimpleData>
+		<SimpleData name="Latitude">40.09736442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24667536,40.09736442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11000, L IRI: 278, R IRI: 327</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24667253</SimpleData>
+		<SimpleData name="Latitude">40.09709446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24667253,40.09709446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11100, L IRI: 322, R IRI: 361</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24666891</SimpleData>
+		<SimpleData name="Latitude">40.09682088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24666891,40.09682088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11200, L IRI: 223, R IRI: 269</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24666505</SimpleData>
+		<SimpleData name="Latitude">40.09654348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24666505,40.09654348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11300, L IRI: 329, R IRI: 366</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24666175</SimpleData>
+		<SimpleData name="Latitude">40.09626817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24666175,40.09626817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11400, L IRI: 389, R IRI: 518</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24665897</SimpleData>
+		<SimpleData name="Latitude">40.09599591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24665897,40.09599591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11500, L IRI: 352, R IRI: 325</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24665479</SimpleData>
+		<SimpleData name="Latitude">40.09572378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24665479,40.09572378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11600, L IRI: 254, R IRI: 265</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24664896</SimpleData>
+		<SimpleData name="Latitude">40.09545157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24664896,40.09545157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11700, L IRI: 495, R IRI: 524</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24663907</SimpleData>
+		<SimpleData name="Latitude">40.09517629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24663907,40.09517629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11800, L IRI: 297, R IRI: 344</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24663454</SimpleData>
+		<SimpleData name="Latitude">40.09489976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24663454,40.09489976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 11900, L IRI: 389, R IRI: 462</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24662909</SimpleData>
+		<SimpleData name="Latitude">40.09458708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24662909,40.09458708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State St, Station: 12000, L IRI: 1139, R IRI: 1239</name>
+	<ExtendedData><SchemaData schemaUrl="#State">
+		<SimpleData name="Longitude">-88.24662094</SimpleData>
+		<SimpleData name="Latitude">40.09439269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24662094,40.09439269</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b2" id="b2">
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Full Description" type="string"></SimpleField>
+	<SimpleField name="Street Name" type="string"></SimpleField>
+	<SimpleField name="Counter" type="int"></SimpleField>
+</Schema>
+<Folder><name>b2</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14891005</SimpleData>
+		<SimpleData name="Longitude">-88.24404332</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 0, L IRI: 322, R IRI: 421</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24404332,40.14891005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14907686</SimpleData>
+		<SimpleData name="Longitude">-88.24413327</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 100, L IRI: 714, R IRI: 809</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24413327,40.14907686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14913463</SimpleData>
+		<SimpleData name="Longitude">-88.24448547</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 200, L IRI: 138, R IRI: 137</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24448547,40.14913463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14913537</SimpleData>
+		<SimpleData name="Longitude">-88.2448496</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 300, L IRI: 176, R IRI: 151</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2448496,40.14913537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14913816</SimpleData>
+		<SimpleData name="Longitude">-88.24520543</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 400, L IRI: 86, R IRI: 101</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24520543,40.14913816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14914057</SimpleData>
+		<SimpleData name="Longitude">-88.24555947</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 500, L IRI: 155, R IRI: 153</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24555947,40.14914057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14914479</SimpleData>
+		<SimpleData name="Longitude">-88.24591627</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 600, L IRI: 159, R IRI: 224</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24591627,40.14914479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915021</SimpleData>
+		<SimpleData name="Longitude">-88.24627586</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 700, L IRI: 101, R IRI: 101</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24627586,40.14915021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915377</SimpleData>
+		<SimpleData name="Longitude">-88.24663188</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 800, L IRI: 106, R IRI: 109</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24663188,40.14915377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915967</SimpleData>
+		<SimpleData name="Longitude">-88.24698599</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 900, L IRI: 239, R IRI: 196</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24698599,40.14915967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916786</SimpleData>
+		<SimpleData name="Longitude">-88.24734105</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1000, L IRI: 108, R IRI: 113</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24734105,40.14916786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14917344</SimpleData>
+		<SimpleData name="Longitude">-88.24770461</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1100, L IRI: 146, R IRI: 95</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24770461,40.14917344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14917468</SimpleData>
+		<SimpleData name="Longitude">-88.24806509</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1200, L IRI: 93, R IRI: 84</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24806509,40.14917468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14917214</SimpleData>
+		<SimpleData name="Longitude">-88.24842296</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1300, L IRI: 192, R IRI: 200</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24842296,40.14917214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916833</SimpleData>
+		<SimpleData name="Longitude">-88.24875888</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1400, L IRI: 232, R IRI: 180</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24875888,40.14916833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916493</SimpleData>
+		<SimpleData name="Longitude">-88.24912577</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1500, L IRI: 154, R IRI: 125</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24912577,40.14916493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916117</SimpleData>
+		<SimpleData name="Longitude">-88.24948341</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1600, L IRI: 153, R IRI: 123</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24948341,40.14916117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915737</SimpleData>
+		<SimpleData name="Longitude">-88.24983816</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1700, L IRI: 187, R IRI: 120</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.24983816,40.14915737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915417</SimpleData>
+		<SimpleData name="Longitude">-88.25019597</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1800, L IRI: 158, R IRI: 129</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25019597,40.14915417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915285</SimpleData>
+		<SimpleData name="Longitude">-88.25055552</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 1900, L IRI: 159, R IRI: 73</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25055552,40.14915285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915395</SimpleData>
+		<SimpleData name="Longitude">-88.25091012</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2000, L IRI: 115, R IRI: 95</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25091012,40.14915395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915672</SimpleData>
+		<SimpleData name="Longitude">-88.2512627</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2100, L IRI: 174, R IRI: 130</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3606</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2512627,40.14915672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916046</SimpleData>
+		<SimpleData name="Longitude">-88.25161971</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2200, L IRI: 130, R IRI: 112</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25161971,40.14916046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916352</SimpleData>
+		<SimpleData name="Longitude">-88.25197978</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2300, L IRI: 173, R IRI: 150</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25197978,40.14916352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916651</SimpleData>
+		<SimpleData name="Longitude">-88.25233354</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2400, L IRI: 126, R IRI: 99</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25233354,40.14916651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916863</SimpleData>
+		<SimpleData name="Longitude">-88.25268737</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2500, L IRI: 211, R IRI: 174</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3610</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25268737,40.14916863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916832</SimpleData>
+		<SimpleData name="Longitude">-88.25304885</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2600, L IRI: 207, R IRI: 171</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3611</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25304885,40.14916832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916601</SimpleData>
+		<SimpleData name="Longitude">-88.25340797</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2700, L IRI: 314, R IRI: 98</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25340797,40.14916601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14916322</SimpleData>
+		<SimpleData name="Longitude">-88.25376475</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2800, L IRI: 328, R IRI: 94</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25376475,40.14916322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915988</SimpleData>
+		<SimpleData name="Longitude">-88.25412081</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 2900, L IRI: 135, R IRI: 99</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25412081,40.14915988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915616</SimpleData>
+		<SimpleData name="Longitude">-88.25448057</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3000, L IRI: 130, R IRI: 101</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25448057,40.14915616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915314</SimpleData>
+		<SimpleData name="Longitude">-88.25483656</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3100, L IRI: 132, R IRI: 115</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25483656,40.14915314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915259</SimpleData>
+		<SimpleData name="Longitude">-88.25518624</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3200, L IRI: 409, R IRI: 216</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25518624,40.14915259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14915086</SimpleData>
+		<SimpleData name="Longitude">-88.25554587</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3300, L IRI: 213, R IRI: 181</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25554587,40.14915086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14914569</SimpleData>
+		<SimpleData name="Longitude">-88.25590588</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3400, L IRI: 142, R IRI: 179</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25590588,40.14914569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.1491426</SimpleData>
+		<SimpleData name="Longitude">-88.25626576</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3500, L IRI: 83, R IRI: 107</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3620</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25626576,40.1491426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14913859</SimpleData>
+		<SimpleData name="Longitude">-88.25662547</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3600, L IRI: 158, R IRI: 105</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3621</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25662547,40.14913859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.1491331</SimpleData>
+		<SimpleData name="Longitude">-88.25698295</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3700, L IRI: 157, R IRI: 89</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25698295,40.1491331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14912976</SimpleData>
+		<SimpleData name="Longitude">-88.25734293</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3800, L IRI: 184, R IRI: 134</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25734293,40.14912976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14912706</SimpleData>
+		<SimpleData name="Longitude">-88.25773595</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 3900, L IRI: 290, R IRI: 262</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25773595,40.14912706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14912559</SimpleData>
+		<SimpleData name="Longitude">-88.25803361</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4000, L IRI: 994, R IRI: 982</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25803361,40.14912559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14912451</SimpleData>
+		<SimpleData name="Longitude">-88.25840317</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4100, L IRI: 239, R IRI: 290</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25840317,40.14912451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.1491238</SimpleData>
+		<SimpleData name="Longitude">-88.25876654</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4200, L IRI: 209, R IRI: 190</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25876654,40.1491238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14912002</SimpleData>
+		<SimpleData name="Longitude">-88.25912197</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4300, L IRI: 152, R IRI: 143</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25912197,40.14912002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14911728</SimpleData>
+		<SimpleData name="Longitude">-88.25947789</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4400, L IRI: 131, R IRI: 177</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25947789,40.14911728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14911433</SimpleData>
+		<SimpleData name="Longitude">-88.25983406</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4500, L IRI: 218, R IRI: 242</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3630</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.25983406,40.14911433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14911081</SimpleData>
+		<SimpleData name="Longitude">-88.26018983</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4600, L IRI: 169, R IRI: 164</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26018983,40.14911081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14910777</SimpleData>
+		<SimpleData name="Longitude">-88.26054399</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4700, L IRI: 332, R IRI: 166</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3632</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26054399,40.14910777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.1491044</SimpleData>
+		<SimpleData name="Longitude">-88.2609018</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4800, L IRI: 167, R IRI: 226</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2609018,40.1491044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14910155</SimpleData>
+		<SimpleData name="Longitude">-88.26126044</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 4900, L IRI: 92, R IRI: 92</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26126044,40.14910155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14909865</SimpleData>
+		<SimpleData name="Longitude">-88.26161446</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5000, L IRI: 104, R IRI: 107</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26161446,40.14909865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14909625</SimpleData>
+		<SimpleData name="Longitude">-88.26196923</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5100, L IRI: 356, R IRI: 130</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26196923,40.14909625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14909365</SimpleData>
+		<SimpleData name="Longitude">-88.26232538</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5200, L IRI: 427, R IRI: 140</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26232538,40.14909365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14909106</SimpleData>
+		<SimpleData name="Longitude">-88.26268311</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5300, L IRI: 312, R IRI: 259</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26268311,40.14909106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14908772</SimpleData>
+		<SimpleData name="Longitude">-88.26304283</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5400, L IRI: 150, R IRI: 169</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26304283,40.14908772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14908342</SimpleData>
+		<SimpleData name="Longitude">-88.26340425</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5500, L IRI: 115, R IRI: 125</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3640</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26340425,40.14908342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14907583</SimpleData>
+		<SimpleData name="Longitude">-88.26376323</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5600, L IRI: 177, R IRI: 170</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26376323,40.14907583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14906278</SimpleData>
+		<SimpleData name="Longitude">-88.26411451</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5700, L IRI: 155, R IRI: 127</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26411451,40.14906278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14904314</SimpleData>
+		<SimpleData name="Longitude">-88.26447117</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5800, L IRI: 143, R IRI: 138</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26447117,40.14904314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14901679</SimpleData>
+		<SimpleData name="Longitude">-88.26483129</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 5900, L IRI: 131, R IRI: 130</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26483129,40.14901679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14898487</SimpleData>
+		<SimpleData name="Longitude">-88.26518443</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6000, L IRI: 150, R IRI: 129</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26518443,40.14898487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14895124</SimpleData>
+		<SimpleData name="Longitude">-88.26553547</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6100, L IRI: 165, R IRI: 151</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26553547,40.14895124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14892031</SimpleData>
+		<SimpleData name="Longitude">-88.2658882</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6200, L IRI: 300, R IRI: 100</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2658882,40.14892031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14889311</SimpleData>
+		<SimpleData name="Longitude">-88.26624365</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6300, L IRI: 100, R IRI: 100</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26624365,40.14889311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14886953</SimpleData>
+		<SimpleData name="Longitude">-88.26659968</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6400, L IRI: 108, R IRI: 95</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26659968,40.14886953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14884922</SimpleData>
+		<SimpleData name="Longitude">-88.26695592</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6500, L IRI: 83, R IRI: 107</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3650</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26695592,40.14884922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14883373</SimpleData>
+		<SimpleData name="Longitude">-88.26731536</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6600, L IRI: 143, R IRI: 142</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26731536,40.14883373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14882463</SimpleData>
+		<SimpleData name="Longitude">-88.26767215</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6700, L IRI: 219, R IRI: 150</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26767215,40.14882463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14881906</SimpleData>
+		<SimpleData name="Longitude">-88.26802843</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6800, L IRI: 178, R IRI: 137</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26802843,40.14881906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14881515</SimpleData>
+		<SimpleData name="Longitude">-88.26838146</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 6900, L IRI: 153, R IRI: 140</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26838146,40.14881515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14881182</SimpleData>
+		<SimpleData name="Longitude">-88.26874121</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7000, L IRI: 603, R IRI: 316</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26874121,40.14881182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14880931</SimpleData>
+		<SimpleData name="Longitude">-88.26909249</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7100, L IRI: 271, R IRI: 253</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3656</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26909249,40.14880931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14880729</SimpleData>
+		<SimpleData name="Longitude">-88.26944408</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7200, L IRI: 243, R IRI: 193</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26944408,40.14880729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14880407</SimpleData>
+		<SimpleData name="Longitude">-88.26980205</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7300, L IRI: 173, R IRI: 219</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.26980205,40.14880407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14880138</SimpleData>
+		<SimpleData name="Longitude">-88.27016264</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7400, L IRI: 202, R IRI: 229</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27016264,40.14880138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14879882</SimpleData>
+		<SimpleData name="Longitude">-88.27052097</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7500, L IRI: 225, R IRI: 225</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3660</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27052097,40.14879882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14879549</SimpleData>
+		<SimpleData name="Longitude">-88.27087308</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7600, L IRI: 209, R IRI: 207</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27087308,40.14879549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14879216</SimpleData>
+		<SimpleData name="Longitude">-88.27122852</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7700, L IRI: 189, R IRI: 196</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27122852,40.14879216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14878876</SimpleData>
+		<SimpleData name="Longitude">-88.27159157</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7800, L IRI: 182, R IRI: 168</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27159157,40.14878876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.1487857</SimpleData>
+		<SimpleData name="Longitude">-88.27195081</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 7900, L IRI: 159, R IRI: 192</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27195081,40.1487857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14878177</SimpleData>
+		<SimpleData name="Longitude">-88.27230186</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8000, L IRI: 189, R IRI: 183</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27230186,40.14878177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14877915</SimpleData>
+		<SimpleData name="Longitude">-88.27265684</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8100, L IRI: 207, R IRI: 240</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3666</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27265684,40.14877915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14877657</SimpleData>
+		<SimpleData name="Longitude">-88.27301782</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8200, L IRI: 215, R IRI: 203</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27301782,40.14877657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14877421</SimpleData>
+		<SimpleData name="Longitude">-88.27337976</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8300, L IRI: 221, R IRI: 240</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27337976,40.14877421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14877197</SimpleData>
+		<SimpleData name="Longitude">-88.27373116</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8400, L IRI: 194, R IRI: 209</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3669</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27373116,40.14877197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14876967</SimpleData>
+		<SimpleData name="Longitude">-88.27408762</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8500, L IRI: 131, R IRI: 184</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3670</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27408762,40.14876967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14876757</SimpleData>
+		<SimpleData name="Longitude">-88.27444743</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8600, L IRI: 224, R IRI: 201</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3671</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27444743,40.14876757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14876482</SimpleData>
+		<SimpleData name="Longitude">-88.27480624</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8700, L IRI: 239, R IRI: 254</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3672</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27480624,40.14876482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14875993</SimpleData>
+		<SimpleData name="Longitude">-88.27516388</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8800, L IRI: 193, R IRI: 189</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27516388,40.14875993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14875689</SimpleData>
+		<SimpleData name="Longitude">-88.27551906</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 8900, L IRI: 204, R IRI: 169</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27551906,40.14875689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14875281</SimpleData>
+		<SimpleData name="Longitude">-88.27587754</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 9000, L IRI: 217, R IRI: 237</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27587754,40.14875281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14875064</SimpleData>
+		<SimpleData name="Longitude">-88.27623779</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 9100, L IRI: 200, R IRI: 201</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27623779,40.14875064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14874923</SimpleData>
+		<SimpleData name="Longitude">-88.27662052</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 9200, L IRI: 149, R IRI: 174</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.27662052,40.14874923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#b2">
+		<SimpleData name="Latitude">40.14878178</SimpleData>
+		<SimpleData name="Longitude">-88.2768701</SimpleData>
+		<SimpleData name="Full Description">Interstate Dr, Station: 9300, L IRI: 391, R IRI: 419</SimpleData>
+		<SimpleData name="Street Name">Interstate Dr</SimpleData>
+		<SimpleData name="Counter">3678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2768701,40.14878178</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
