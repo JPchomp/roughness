@@ -26,4 +26,4 @@ range values), rather its use is recommended for pre-screening of streets requir
 The use of this tool could give consistent readings with a set of calibrated cars from Champaign City
 Public Works, yielding a reasonable degree of accuracy for road status control over time in residential
 areas. Also, its value could be increased by coupling recorded data with video footage, and could
-become a cheap, versatile tool for PMS.
+become a cheap, versatile tool for PMS. Final report [here]()
